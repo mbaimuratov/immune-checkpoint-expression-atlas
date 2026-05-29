@@ -1,0 +1,311 @@
+gene,rank,cancer_type,expression
+PDCD1,1,Breast Invasive Carcinoma (validation),8.434212
+PDCD1,2,Kidney Renal Clear Cell Carcinoma (validation),4.8567919999999996
+PDCD1,3,Testicular Germ Cell Tumor (TCGA),4.545202255639097
+PDCD1,4,Kidney Renal Clear Cell Carcinoma (TCGA),3.391017274472169
+PDCD1,5,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),3.2718212014134274
+PDCD1,6,Skin Cuteneous Melanoma (TCGA),3.1326343434343435
+PDCD1,7,Lung Adenocarcinoma (TCGA),2.5476076458752517
+PDCD1,8,Liver Hepatocellular Carcinoma (validation),2.294293073593074
+PDCD1,9,Uterine Corpus Endometrial Carcinoma (TCGA),2.2847386363636364
+PDCD1,10,Lung Squamous Cell Carcinoma (TCGA),2.032833537832311
+PDCD1,11,Head and Neck Squamous Cell Carcinoma (TCGA),1.98195
+PDCD1,12,Stomach Adenocarcinoma (TCGA),1.92137225433526
+PDCD1,13,Bladder Urothelial Carcinoma (TCGA),1.829728402366864
+PDCD1,14,Pancreatic Adenocarcinoma (TCGA),1.6514761363636365
+PDCD1,15,Colon Adenocarcinoma (validation),1.6064835390946501
+PDCD1,16,Kidney Renal Papillary Cell Carcinoma (TCGA),1.6059198581560283
+PDCD1,17,Thyroid Carcinoma (TCGA),1.5706496969696968
+PDCD1,18,Breast Invasive Carcinoma (TCGA),1.4541273972602742
+PDCD1,19,Liver Hepatocellular Carcinoma (TCGA),1.4151886740331492
+PDCD1,20,Colon Adenocarcinoma (TCGA),1.2502251968503937
+PDCD1,21,Rectum Adenocarcinoma (validation),1.120253623188406
+PDCD1,22,Pancreatic Adenocarcinoma (validation),0.96349625
+PDCD1,23,Lung Adenocarcinoma (validation),0.9569761904761905
+PDCD1,24,Rectum Adenocarcinoma (TCGA),0.9257079545454545
+PDCD1,25,Lung Squamous Cell Carcinoma (validation),0.8634382352941177
+PDCD1,26,Ovary Serous Cystadenocarcinoma (validation),0.8357604938271606
+PDCD1,27,Ovary Serous Cystadenocarcinoma (TCGA),0.818195128939828
+PDCD1,28,Prostate Adenocarcinoma (TCGA),0.8010077083333333
+PDCD1,29,Glioblastoma Multiforme (TCGA),0.3850021276595745
+PDCD1,30,Kidney Chromophobe (TCGA),0.3310078125
+PDCD1,31,Glioblastoma Multiforme (validation),0.21511206896551724
+CD274,1,Lung Squamous Cell Carcinoma (validation),23.622117647058825
+CD274,2,Glioblastoma Multiforme (validation),15.635036206896551
+CD274,3,Lung Adenocarcinoma (validation),14.456383809523809
+CD274,4,Breast Invasive Carcinoma (validation),10.270686000000001
+CD274,5,Lung Squamous Cell Carcinoma (TCGA),8.75807873210634
+CD274,6,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),8.01443038869258
+CD274,7,Kidney Chromophobe (TCGA),7.00065
+CD274,8,Head and Neck Squamous Cell Carcinoma (TCGA),6.74589674796748
+CD274,9,Lung Adenocarcinoma (TCGA),6.2170949698189135
+CD274,10,Kidney Renal Clear Cell Carcinoma (validation),5.034383
+CD274,11,Colon Adenocarcinoma (validation),4.8419790123456785
+CD274,12,Bladder Urothelial Carcinoma (TCGA),4.474691124260355
+CD274,13,Pancreatic Adenocarcinoma (validation),3.91914125
+CD274,14,Stomach Adenocarcinoma (TCGA),3.7846251445086705
+CD274,15,Thyroid Carcinoma (TCGA),3.780702828282828
+CD274,16,Rectum Adenocarcinoma (validation),3.7556265700483094
+CD274,17,Testicular Germ Cell Tumor (TCGA),3.403566917293233
+CD274,18,Glioblastoma Multiforme (TCGA),3.308253191489362
+CD274,19,Kidney Renal Papillary Cell Carcinoma (TCGA),3.2774485815602836
+CD274,20,Kidney Renal Clear Cell Carcinoma (TCGA),3.0760690978886758
+CD274,21,Liver Hepatocellular Carcinoma (validation),2.872805194805195
+CD274,22,Skin Cuteneous Melanoma (TCGA),2.2596131313131314
+CD274,23,Breast Invasive Carcinoma (TCGA),2.1574592954990215
+CD274,24,Pancreatic Adenocarcinoma (TCGA),1.9264136363636366
+CD274,25,Colon Adenocarcinoma (TCGA),1.7816086614173228
+CD274,26,Rectum Adenocarcinoma (TCGA),1.4224875
+CD274,27,Ovary Serous Cystadenocarcinoma (validation),1.365293827160494
+CD274,28,Ovary Serous Cystadenocarcinoma (TCGA),1.0875048710601718
+CD274,29,Uterine Corpus Endometrial Carcinoma (TCGA),0.8795761363636363
+CD274,30,Prostate Adenocarcinoma (TCGA),0.75515
+CD274,31,Liver Hepatocellular Carcinoma (TCGA),0.6720795580110497
+CTLA4,1,Breast Invasive Carcinoma (validation),11.923984
+CTLA4,2,Rectum Adenocarcinoma (validation),11.586705314009661
+CTLA4,3,Colon Adenocarcinoma (validation),10.9124012345679
+CTLA4,4,Lung Squamous Cell Carcinoma (validation),9.624592647058824
+CTLA4,5,Lung Adenocarcinoma (validation),9.154218095238095
+CTLA4,6,Testicular Germ Cell Tumor (TCGA),4.7167887218045115
+CTLA4,7,Stomach Adenocarcinoma (TCGA),4.058195953757226
+CTLA4,8,Liver Hepatocellular Carcinoma (validation),3.6066056277056275
+CTLA4,9,Skin Cuteneous Melanoma (TCGA),3.5641707070707076
+CTLA4,10,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),3.4256632508833924
+CTLA4,11,Head and Neck Squamous Cell Carcinoma (TCGA),3.2788042682926832
+CTLA4,12,Lung Adenocarcinoma (TCGA),3.075882494969819
+CTLA4,13,Bladder Urothelial Carcinoma (TCGA),2.7040733727810653
+CTLA4,14,Lung Squamous Cell Carcinoma (TCGA),2.673993047034765
+CTLA4,15,Kidney Renal Clear Cell Carcinoma (validation),2.156468
+CTLA4,16,Pancreatic Adenocarcinoma (TCGA),2.085444318181818
+CTLA4,17,Uterine Corpus Endometrial Carcinoma (TCGA),1.999315340909091
+CTLA4,18,Breast Invasive Carcinoma (TCGA),1.8815761252446184
+CTLA4,19,Pancreatic Adenocarcinoma (validation),1.8688175
+CTLA4,20,Rectum Adenocarcinoma (TCGA),1.7569625
+CTLA4,21,Colon Adenocarcinoma (TCGA),1.7103393700787402
+CTLA4,22,Kidney Renal Clear Cell Carcinoma (TCGA),1.4083994241842612
+CTLA4,23,Thyroid Carcinoma (TCGA),1.1582678787878786
+CTLA4,24,Glioblastoma Multiforme (TCGA),1.0797063829787232
+CTLA4,25,Prostate Adenocarcinoma (TCGA),0.9812097916666667
+CTLA4,26,Glioblastoma Multiforme (validation),0.8249775862068965
+CTLA4,27,Ovary Serous Cystadenocarcinoma (TCGA),0.7828558739255015
+CTLA4,28,Liver Hepatocellular Carcinoma (TCGA),0.749914640883978
+CTLA4,29,Ovary Serous Cystadenocarcinoma (validation),0.7459222222222222
+CTLA4,30,Kidney Renal Papillary Cell Carcinoma (TCGA),0.5835638297872341
+CTLA4,31,Kidney Chromophobe (TCGA),0.063978125
+TIGIT,1,Breast Invasive Carcinoma (validation),13.835835999999999
+TIGIT,2,Lung Squamous Cell Carcinoma (validation),12.08407205882353
+TIGIT,3,Lung Adenocarcinoma (validation),10.485015238095238
+TIGIT,4,Testicular Germ Cell Tumor (TCGA),7.807453383458647
+TIGIT,5,Lung Squamous Cell Carcinoma (TCGA),6.2057918200409
+TIGIT,6,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),5.771681272084805
+TIGIT,7,Lung Adenocarcinoma (TCGA),5.752283299798792
+TIGIT,8,Colon Adenocarcinoma (validation),5.610505967078189
+TIGIT,9,Head and Neck Squamous Cell Carcinoma (TCGA),5.547109146341464
+TIGIT,10,Kidney Renal Clear Cell Carcinoma (validation),5.5461
+TIGIT,11,Bladder Urothelial Carcinoma (TCGA),5.116528402366864
+TIGIT,12,Uterine Corpus Endometrial Carcinoma (TCGA),4.628453409090909
+TIGIT,13,Rectum Adenocarcinoma (validation),4.562690338164251
+TIGIT,14,Breast Invasive Carcinoma (TCGA),4.5064387475538155
+TIGIT,15,Kidney Renal Clear Cell Carcinoma (TCGA),4.194320153550864
+TIGIT,16,Stomach Adenocarcinoma (TCGA),4.15543063583815
+TIGIT,17,Pancreatic Adenocarcinoma (TCGA),3.557911931818182
+TIGIT,18,Skin Cuteneous Melanoma (TCGA),3.543649494949495
+TIGIT,19,Liver Hepatocellular Carcinoma (validation),2.907085714285714
+TIGIT,20,Colon Adenocarcinoma (TCGA),2.8229748031496067
+TIGIT,21,Prostate Adenocarcinoma (TCGA),2.5705347916666668
+TIGIT,22,Rectum Adenocarcinoma (TCGA),2.3207579545454546
+TIGIT,23,Thyroid Carcinoma (TCGA),2.180151717171717
+TIGIT,24,Pancreatic Adenocarcinoma (validation),2.17568875
+TIGIT,25,Glioblastoma Multiforme (validation),1.627443103448276
+TIGIT,26,Liver Hepatocellular Carcinoma (TCGA),1.5356613259668508
+TIGIT,27,Ovary Serous Cystadenocarcinoma (TCGA),1.36730888252149
+TIGIT,28,Kidney Renal Papillary Cell Carcinoma (TCGA),1.2786716312056738
+TIGIT,29,Ovary Serous Cystadenocarcinoma (validation),1.0752851851851852
+TIGIT,30,Glioblastoma Multiforme (TCGA),0.47158297872340427
+TIGIT,31,Kidney Chromophobe (TCGA),0.4400671875
+LAG3,1,Testicular Germ Cell Tumor (TCGA),20.37355338345865
+LAG3,2,Breast Invasive Carcinoma (validation),14.252916
+LAG3,3,Skin Cuteneous Melanoma (TCGA),10.579216161616161
+LAG3,4,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),10.076600353356891
+LAG3,5,Kidney Renal Clear Cell Carcinoma (validation),9.018557
+LAG3,6,Uterine Corpus Endometrial Carcinoma (TCGA),7.8003903409090904
+LAG3,7,Kidney Renal Clear Cell Carcinoma (TCGA),7.280399232245681
+LAG3,8,Head and Neck Squamous Cell Carcinoma (TCGA),6.842255081300814
+LAG3,9,Stomach Adenocarcinoma (TCGA),6.250791907514451
+LAG3,10,Bladder Urothelial Carcinoma (TCGA),5.822778106508876
+LAG3,11,Lung Adenocarcinoma (TCGA),5.76071569416499
+LAG3,12,Liver Hepatocellular Carcinoma (validation),5.5709805194805195
+LAG3,13,Lung Squamous Cell Carcinoma (TCGA),5.211969325153373
+LAG3,14,Ovary Serous Cystadenocarcinoma (TCGA),4.186194842406877
+LAG3,15,Lung Squamous Cell Carcinoma (validation),4.058960294117647
+LAG3,16,Breast Invasive Carcinoma (TCGA),3.8931664383561646
+LAG3,17,Ovary Serous Cystadenocarcinoma (validation),3.6699185185185184
+LAG3,18,Lung Adenocarcinoma (validation),3.6581571428571427
+LAG3,19,Colon Adenocarcinoma (validation),3.612436625514403
+LAG3,20,Liver Hepatocellular Carcinoma (TCGA),2.4603613259668506
+LAG3,21,Colon Adenocarcinoma (TCGA),2.4375905511811022
+LAG3,22,Rectum Adenocarcinoma (validation),2.3641695652173915
+LAG3,23,Kidney Renal Papillary Cell Carcinoma (TCGA),2.338501063829787
+LAG3,24,Pancreatic Adenocarcinoma (TCGA),2.0372857954545456
+LAG3,25,Thyroid Carcinoma (TCGA),1.8163442424242424
+LAG3,26,Rectum Adenocarcinoma (TCGA),1.8066829545454546
+LAG3,27,Prostate Adenocarcinoma (TCGA),1.5873052083333334
+LAG3,28,Pancreatic Adenocarcinoma (validation),1.55869375
+LAG3,29,Glioblastoma Multiforme (TCGA),0.9986312056737587
+LAG3,30,Glioblastoma Multiforme (validation),0.9440362068965518
+LAG3,31,Kidney Chromophobe (TCGA),0.517175
+HAVCR2,1,Kidney Renal Clear Cell Carcinoma (validation),94.819534
+HAVCR2,2,Glioblastoma Multiforme (validation),69.01008448275861
+HAVCR2,3,Kidney Renal Clear Cell Carcinoma (TCGA),61.63331439539348
+HAVCR2,4,Kidney Renal Papillary Cell Carcinoma (TCGA),43.91165957446808
+HAVCR2,5,Glioblastoma Multiforme (TCGA),38.64791205673759
+HAVCR2,6,Lung Adenocarcinoma (validation),32.80020476190476
+HAVCR2,7,Breast Invasive Carcinoma (validation),30.35794
+HAVCR2,8,Lung Squamous Cell Carcinoma (validation),26.276079411764705
+HAVCR2,9,Lung Adenocarcinoma (TCGA),17.461554527162978
+HAVCR2,10,Colon Adenocarcinoma (validation),14.97313024691358
+HAVCR2,11,Testicular Germ Cell Tumor (TCGA),14.495564661654136
+HAVCR2,12,Breast Invasive Carcinoma (TCGA),14.46275322896282
+HAVCR2,13,Pancreatic Adenocarcinoma (TCGA),13.835224431818181
+HAVCR2,14,Pancreatic Adenocarcinoma (validation),13.733702500000001
+HAVCR2,15,Lung Squamous Cell Carcinoma (TCGA),12.55581308793456
+HAVCR2,16,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),12.144928268551237
+HAVCR2,17,Rectum Adenocarcinoma (validation),11.953116425120772
+HAVCR2,18,Liver Hepatocellular Carcinoma (validation),11.407418181818182
+HAVCR2,19,Bladder Urothelial Carcinoma (TCGA),9.668250887573965
+HAVCR2,20,Uterine Corpus Endometrial Carcinoma (TCGA),9.601470454545455
+HAVCR2,21,Stomach Adenocarcinoma (TCGA),9.47687514450867
+HAVCR2,22,Head and Neck Squamous Cell Carcinoma (TCGA),8.938808943089432
+HAVCR2,23,Ovary Serous Cystadenocarcinoma (TCGA),8.938607736389685
+HAVCR2,24,Skin Cuteneous Melanoma (TCGA),7.677569696969696
+HAVCR2,25,Kidney Chromophobe (TCGA),6.85228125
+HAVCR2,26,Colon Adenocarcinoma (TCGA),6.530810236220472
+HAVCR2,27,Thyroid Carcinoma (TCGA),5.771780808080808
+HAVCR2,28,Ovary Serous Cystadenocarcinoma (validation),5.659453086419753
+HAVCR2,29,Rectum Adenocarcinoma (TCGA),5.512868181818182
+HAVCR2,30,Liver Hepatocellular Carcinoma (TCGA),4.322103591160221
+HAVCR2,31,Prostate Adenocarcinoma (TCGA),3.790294375
+TOX,1,Glioblastoma Multiforme (validation),27.015296551724138
+TOX,2,Colon Adenocarcinoma (validation),9.486576131687242
+TOX,3,Glioblastoma Multiforme (TCGA),8.140787943262412
+TOX,4,Rectum Adenocarcinoma (validation),8.121716425120773
+TOX,5,Lung Adenocarcinoma (validation),6.374525714285714
+TOX,6,Breast Invasive Carcinoma (validation),5.885538
+TOX,7,Stomach Adenocarcinoma (TCGA),5.519353179190752
+TOX,8,Lung Adenocarcinoma (TCGA),5.114908048289738
+TOX,9,Testicular Germ Cell Tumor (TCGA),4.484428571428571
+TOX,10,Pancreatic Adenocarcinoma (TCGA),4.26582159090909
+TOX,11,Lung Squamous Cell Carcinoma (validation),4.191545588235294
+TOX,12,Ovary Serous Cystadenocarcinoma (TCGA),3.917959885386819
+TOX,13,Kidney Renal Clear Cell Carcinoma (validation),3.774914
+TOX,14,Colon Adenocarcinoma (TCGA),3.6127807086614174
+TOX,15,Pancreatic Adenocarcinoma (validation),3.5385712499999995
+TOX,16,Rectum Adenocarcinoma (TCGA),3.2503863636363635
+TOX,17,Uterine Corpus Endometrial Carcinoma (TCGA),3.226256818181818
+TOX,18,Kidney Renal Clear Cell Carcinoma (TCGA),2.8824328214971207
+TOX,19,Lung Squamous Cell Carcinoma (TCGA),2.737443762781186
+TOX,20,Ovary Serous Cystadenocarcinoma (validation),2.2324234567901233
+TOX,21,Bladder Urothelial Carcinoma (TCGA),2.0000136094674557
+TOX,22,Head and Neck Squamous Cell Carcinoma (TCGA),1.8881371951219512
+TOX,23,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),1.7774289752650176
+TOX,24,Prostate Adenocarcinoma (TCGA),1.7346714583333334
+TOX,25,Breast Invasive Carcinoma (TCGA),1.5275680039138944
+TOX,26,Kidney Renal Papillary Cell Carcinoma (TCGA),1.4692251773049645
+TOX,27,Skin Cuteneous Melanoma (TCGA),1.222180808080808
+TOX,28,Liver Hepatocellular Carcinoma (validation),1.1721242424242424
+TOX,29,Thyroid Carcinoma (TCGA),1.1049771717171717
+TOX,30,Liver Hepatocellular Carcinoma (TCGA),0.9438842541436464
+TOX,31,Kidney Chromophobe (TCGA),0.44764375
+ENTPD1,1,Thyroid Carcinoma (TCGA),71.2018808080808
+ENTPD1,2,Pancreatic Adenocarcinoma (validation),29.0532775
+ENTPD1,3,Lung Adenocarcinoma (validation),28.155477142857144
+ENTPD1,4,Breast Invasive Carcinoma (validation),28.096896
+ENTPD1,5,Glioblastoma Multiforme (validation),27.78673793103448
+ENTPD1,6,Lung Squamous Cell Carcinoma (validation),27.24093823529412
+ENTPD1,7,Kidney Renal Clear Cell Carcinoma (validation),25.827118999999996
+ENTPD1,8,Rectum Adenocarcinoma (validation),25.118291304347824
+ENTPD1,9,Colon Adenocarcinoma (validation),24.378632921810702
+ENTPD1,10,Kidney Renal Clear Cell Carcinoma (TCGA),24.099937811900194
+ENTPD1,11,Glioblastoma Multiforme (TCGA),19.14197304964539
+ENTPD1,12,Pancreatic Adenocarcinoma (TCGA),15.744498295454546
+ENTPD1,13,Breast Invasive Carcinoma (TCGA),14.91971457925636
+ENTPD1,14,Stomach Adenocarcinoma (TCGA),14.463442485549132
+ENTPD1,15,Lung Adenocarcinoma (TCGA),12.697650100603623
+ENTPD1,16,Bladder Urothelial Carcinoma (TCGA),12.501475147928995
+ENTPD1,17,Uterine Corpus Endometrial Carcinoma (TCGA),11.084139772727273
+ENTPD1,18,Rectum Adenocarcinoma (TCGA),10.37559659090909
+ENTPD1,19,Lung Squamous Cell Carcinoma (TCGA),10.352518200408998
+ENTPD1,20,Colon Adenocarcinoma (TCGA),10.032438188976379
+ENTPD1,21,Testicular Germ Cell Tumor (TCGA),9.717431578947368
+ENTPD1,22,Skin Cuteneous Melanoma (TCGA),9.59188787878788
+ENTPD1,23,Head and Neck Squamous Cell Carcinoma (TCGA),9.469180691056911
+ENTPD1,24,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),8.710416607773851
+ENTPD1,25,Kidney Renal Papillary Cell Carcinoma (TCGA),8.137925177304965
+ENTPD1,26,Prostate Adenocarcinoma (TCGA),6.893844791666667
+ENTPD1,27,Kidney Chromophobe (TCGA),6.2779140625
+ENTPD1,28,Liver Hepatocellular Carcinoma (validation),6.139964069264069
+ENTPD1,29,Ovary Serous Cystadenocarcinoma (validation),5.9303938271604935
+ENTPD1,30,Ovary Serous Cystadenocarcinoma (TCGA),5.158610028653295
+ENTPD1,31,Liver Hepatocellular Carcinoma (TCGA),3.7928740331491717
+ICOS,1,Breast Invasive Carcinoma (validation),7.507645999999999
+ICOS,2,Lung Squamous Cell Carcinoma (validation),4.065247058823529
+ICOS,3,Lung Adenocarcinoma (validation),3.956827619047619
+ICOS,4,Colon Adenocarcinoma (validation),3.303532304526749
+ICOS,5,Rectum Adenocarcinoma (validation),3.1980811594202896
+ICOS,6,Testicular Germ Cell Tumor (TCGA),2.048438345864662
+ICOS,7,Head and Neck Squamous Cell Carcinoma (TCGA),2.016782520325203
+ICOS,8,Kidney Renal Clear Cell Carcinoma (validation),1.654719
+ICOS,9,Liver Hepatocellular Carcinoma (validation),1.610725974025974
+ICOS,10,Lung Adenocarcinoma (TCGA),1.5589110663983905
+ICOS,11,Stomach Adenocarcinoma (TCGA),1.4586245664739885
+ICOS,12,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),1.4446219081272085
+ICOS,13,Breast Invasive Carcinoma (TCGA),1.366291095890411
+ICOS,14,Lung Squamous Cell Carcinoma (TCGA),1.3063141104294478
+ICOS,15,Pancreatic Adenocarcinoma (validation),1.127675
+ICOS,16,Kidney Renal Clear Cell Carcinoma (TCGA),1.0284953934740884
+ICOS,17,Skin Cuteneous Melanoma (TCGA),0.9727171717171718
+ICOS,18,Bladder Urothelial Carcinoma (TCGA),0.9377041420118344
+ICOS,19,Pancreatic Adenocarcinoma (TCGA),0.9153221590909091
+ICOS,20,Colon Adenocarcinoma (TCGA),0.8382673228346457
+ICOS,21,Rectum Adenocarcinoma (TCGA),0.7719238636363636
+ICOS,22,Glioblastoma Multiforme (validation),0.7171706896551724
+ICOS,23,Thyroid Carcinoma (TCGA),0.5913420202020202
+ICOS,24,Ovary Serous Cystadenocarcinoma (validation),0.5173098765432098
+ICOS,25,Uterine Corpus Endometrial Carcinoma (TCGA),0.4732710227272727
+ICOS,26,Ovary Serous Cystadenocarcinoma (TCGA),0.4676091690544413
+ICOS,27,Prostate Adenocarcinoma (TCGA),0.40895125000000004
+ICOS,28,Liver Hepatocellular Carcinoma (TCGA),0.33793093922651934
+ICOS,29,Kidney Renal Papillary Cell Carcinoma (TCGA),0.24575390070921985
+ICOS,30,Kidney Chromophobe (TCGA),0.157184375
+ICOS,31,Glioblastoma Multiforme (TCGA),0.14311560283687944
+TNFRSF9,1,Lung Adenocarcinoma (validation),6.7941971428571435
+TNFRSF9,2,Lung Squamous Cell Carcinoma (validation),5.799266176470589
+TNFRSF9,3,Kidney Renal Clear Cell Carcinoma (validation),4.168464
+TNFRSF9,4,Breast Invasive Carcinoma (validation),4.081436
+TNFRSF9,5,Colon Adenocarcinoma (validation),3.9959668724279833
+TNFRSF9,6,Rectum Adenocarcinoma (validation),3.910312077294686
+TNFRSF9,7,Kidney Renal Clear Cell Carcinoma (TCGA),3.5155147792706334
+TNFRSF9,8,Testicular Germ Cell Tumor (TCGA),3.2533616541353383
+TNFRSF9,9,Lung Adenocarcinoma (TCGA),2.9303132796780686
+TNFRSF9,10,Stomach Adenocarcinoma (TCGA),2.6309534682080926
+TNFRSF9,11,Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma (TCGA),2.4601795053003537
+TNFRSF9,12,Lung Squamous Cell Carcinoma (TCGA),2.3543302658486707
+TNFRSF9,13,Glioblastoma Multiforme (validation),2.1661448275862067
+TNFRSF9,14,Head and Neck Squamous Cell Carcinoma (TCGA),2.142787398373984
+TNFRSF9,15,Uterine Corpus Endometrial Carcinoma (TCGA),2.0651357954545455
+TNFRSF9,16,Skin Cuteneous Melanoma (TCGA),1.7386767676767676
+TNFRSF9,17,Bladder Urothelial Carcinoma (TCGA),1.725630769230769
+TNFRSF9,18,Pancreatic Adenocarcinoma (validation),1.7126750000000002
+TNFRSF9,19,Kidney Renal Papillary Cell Carcinoma (TCGA),1.627809219858156
+TNFRSF9,20,Breast Invasive Carcinoma (TCGA),1.525234637964775
+TNFRSF9,21,Pancreatic Adenocarcinoma (TCGA),1.3568107954545454
+TNFRSF9,22,Colon Adenocarcinoma (TCGA),1.317638188976378
+TNFRSF9,23,Rectum Adenocarcinoma (TCGA),1.0868613636363635
+TNFRSF9,24,Ovary Serous Cystadenocarcinoma (TCGA),1.063043553008596
+TNFRSF9,25,Liver Hepatocellular Carcinoma (TCGA),0.9378718232044199
+TNFRSF9,26,Thyroid Carcinoma (TCGA),0.9312531313131314
+TNFRSF9,27,Liver Hepatocellular Carcinoma (validation),0.6080307359307359
+TNFRSF9,28,Kidney Chromophobe (TCGA),0.59335625
+TNFRSF9,29,Prostate Adenocarcinoma (TCGA),0.5827964583333334
+TNFRSF9,30,Ovary Serous Cystadenocarcinoma (validation),0.5356160493827161
+TNFRSF9,31,Glioblastoma Multiforme (TCGA),0.47588581560283694

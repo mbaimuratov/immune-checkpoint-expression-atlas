@@ -2,6 +2,12 @@ from pathlib import Path
 
 import pandas as pd
 
+from expression_helpers import (
+    load_raw_expression,
+    standardize_cell_type,
+    standardize_gene_symbol,
+)
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_FILE = PROJECT_ROOT / "data" / "raw" / "rna_immune_cell.tsv"
@@ -26,56 +32,6 @@ TARGET_CHECKPOINT_GENES = [
     "ICOS",
     "TNFRSF9",
 ]
-
-# Common aliases for checkpoint genes. Keys are normalized before lookup.
-GENE_SYMBOL_ALIASES = {
-    "PD-1": "PDCD1",
-    "PD1": "PDCD1",
-    "PDL1": "CD274",
-    "PD-L1": "CD274",
-    "CTLA-4": "CTLA4",
-    "LAG-3": "LAG3",
-    "TIM-3": "HAVCR2",
-    "CD39": "ENTPD1",
-    "4-1BB": "TNFRSF9",
-}
-
-
-def standardize_gene_symbol(symbol: object) -> str | None:
-    """Return an uppercase HGNC-like gene symbol with known aliases resolved."""
-    if pd.isna(symbol):
-        return None
-
-    standardized = str(symbol).strip().upper()
-    if not standardized:
-        return None
-
-    return GENE_SYMBOL_ALIASES.get(standardized, standardized)
-
-
-def standardize_cell_type(cell_type: object) -> str | None:
-    """Return a stable, column-friendly immune cell type label."""
-    if pd.isna(cell_type):
-        return None
-
-    standardized = (
-        str(cell_type)
-        .strip()
-        .lower()
-        .replace("+", "pos")
-        .replace("-", "_")
-        .replace(" ", "_")
-        .replace("/", "_")
-    )
-    if not standardized:
-        return None
-
-    return standardized
-
-
-def load_raw_expression(path: Path = RAW_FILE) -> pd.DataFrame:
-    return pd.read_csv(path, sep="\t")
-
 
 def clean_checkpoint_expression(raw_expression: pd.DataFrame) -> pd.DataFrame:
     required_columns = {"Gene name", "Immune cell", "TPM"}
@@ -161,7 +117,7 @@ def make_ranked_expression(long_expression: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
-    raw_expression = load_raw_expression()
+    raw_expression = load_raw_expression(RAW_FILE)
     long_expression = clean_checkpoint_expression(raw_expression)
     wide_expression = make_wide_expression(long_expression)
     ranked_expression = make_ranked_expression(long_expression)
